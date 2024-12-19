@@ -10,7 +10,7 @@
 -------
 
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK Gerado por I.A.s(Em Andamento)
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
